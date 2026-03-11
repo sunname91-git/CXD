@@ -5,6 +5,7 @@
   <li><a href="ФТ‐4.1-Поддержка-iSCSI-Target.md">ФТ‐4.1-Поддержка-iSCSI-Target</a></li>
   <li><a href="ФТ‐4.2-Управление-хостами-iSCSI.md">ФТ-4.2 Управление хостами iSCSI</a></li>
   <li><a href="ФТ‐4.3-Ограничение-доступа-к-LUN-(Host-Mapping).md">ФТ-4.3 Ограничение доступа к LUN</a></li>
+  <li><a href="ФТ‐4.4-Поддержка-аутентификации-(CHAP-Mutual-CHAP).md">ФТ‐4.4-Поддержка-аутентификации-(CHAP-Mutual-CHAP)</a></li>
 </ul>
 
 </details>
@@ -15,6 +16,7 @@
 <ul>
   <li><a href="ФТ‐5.1-Поддержка-интерфейсов-Fibre-Channel-и-работа-в-режиме-Target.md">ФТ-5.1 Поддержка интерфейсов Fibre Channel и работа в режиме Target</a></li>
   <li><a href="ФТ‐5.2-Управление-группами-FC.md">ФТ‐5.2 Управление группами FC</a></li>
+  <li><a href="ФТ‐5.3-Ограничение-доступа-к-LUN-(LUN-Masking)-для-FC.md">ФТ‐5.3-Ограничение-доступа-к-LUN-(LUN-Masking)-для-FC</a></li>
 </ul>
 
 </details>
