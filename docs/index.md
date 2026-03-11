@@ -1,9 +1,11 @@
 <details>
 <summary><strong>БТ-4 Блочный доступ по протоколу iSCSI</strong></summary>
 
-* [ФТ-4.1 Поддержка iSCSI Target](ФТ‐4.1-Поддержка-iSCSI-Target.md)
-* [ФТ-4.2 Управление хостами iSCSI](ФТ‐4.2-Управление-хостами-iSCSI)
-* [ФТ-4.3 Ограничение доступа к LUN](ФТ‐4.3-Ограничение-доступа-к-LUN-(Host-Mapping))
+<ul>
+  <li><a href="ФТ-4.1-Поддержка-iSCSI-Target">ФТ-4.1 Поддержка iSCSI Target</a></li>
+  <li><a href="ФТ-4.2-Управление-хостами-iSCSI">ФТ-4.2 Управление хостами iSCSI</a></li>
+  <li><a href="ФТ-4.3-Ограничение-доступа-к-LUN-(Host-Mapping)">ФТ-4.3 Ограничение доступа к LUN</a></li>
+</ul>
 
 </details>
 
